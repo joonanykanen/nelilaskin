@@ -14,7 +14,7 @@ In order to get the files on your local hard drive, I recommend using git
 
 ### Running the app
 
-You need to download [Android Studio]https://developer.android.com/studio/install in order to get the full emulation working.
+You need to download [Android Studio](https://developer.android.com/studio/install) in order to get the full emulation working.
 
 Then you are able to build the app into apk as well.
 
