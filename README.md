@@ -2,6 +2,10 @@
 
 This was the calculator app I built using Android Studio for OOP-course.
 
+Preview:
+
+![Preview Image](https://raw.githubusercontent.com/joonanykanen/nelilaskin/master/nelilaskin-emulated-app-screenshot1.png)
+
 ## Getting Started
 
 These instructions will get you started on the project.
