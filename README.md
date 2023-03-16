@@ -4,7 +4,9 @@ This was the calculator app I built using Android Studio for OOP-course.
 
 Preview:
 
-![Preview Image](https://raw.githubusercontent.com/joonanykanen/nelilaskin/master/nelilaskin-emulated-app-screenshot1.png)
+![Preview Image 1](https://raw.githubusercontent.com/joonanykanen/nelilaskin/master/nelilaskin-emulated-app-screenshot1.png)
+
+![Preview Image 2](https://raw.githubusercontent.com/joonanykanen/nelilaskin/master/nelilaskin-emulated-app-screenshot2.png)
 
 ## Getting Started
 
